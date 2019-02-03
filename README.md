@@ -2,7 +2,9 @@
 
 ## Programming Concepts Used:
   -Efficient file/directory access (recursive directory search)
+  
   -Forking processes in C
+  
   -Avoiding zombie + orphan processes
  
 ## Abstract
