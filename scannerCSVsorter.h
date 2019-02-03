@@ -9,6 +9,9 @@
 #include <dirent.h>
 #include <libgen.h>
 #include <sys/wait.h>
+#include <limits.h>
+#include <fcntl.h>
+#include <unistd.h>
 
 #ifndef SCANNERCSVSORTER_H
 #define SCANNERCSVSORTER_H
